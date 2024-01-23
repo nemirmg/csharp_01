@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\01_csharp.csproj",
-      "projectName": "01_csharp",
-      "projectPath": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\01_csharp.csproj",
+      "projectUniqueName": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\lesson_01\\task1\\task1.csproj",
+      "projectName": "task1",
+      "projectPath": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\lesson_01\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\Nemirs\\.nuget\\packages\\",
-      "outputPath": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\obj\\",
+      "outputPath": "O:\\gb\\разработчик\\04_знакомство_с_языками_программирования\\2024-01-23_лекция\\01_csharp\\lesson_01\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nemirs\\AppData\\Roaming\\NuGet\\NuGet.Config"

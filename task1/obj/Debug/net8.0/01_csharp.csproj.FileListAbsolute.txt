@@ -1,0 +1,14 @@
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\bin\Debug\net8.0\01_csharp.exe
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\bin\Debug\net8.0\01_csharp.deps.json
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\bin\Debug\net8.0\01_csharp.runtimeconfig.json
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\bin\Debug\net8.0\01_csharp.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\bin\Debug\net8.0\01_csharp.pdb
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.GeneratedMSBuildEditorConfig.editorconfig
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.AssemblyInfoInputs.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.AssemblyInfo.cs
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.csproj.CoreCompileInputs.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\refint\01_csharp.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.pdb
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\01_csharp.genruntimeconfig.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\obj\Debug\net8.0\ref\01_csharp.dll

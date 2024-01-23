@@ -1,0 +1,15 @@
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\bin\Debug\net8.0\task1.exe
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\bin\Debug\net8.0\task1.deps.json
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\bin\Debug\net8.0\task1.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\bin\Debug\net8.0\task1.pdb
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.sourcelink.json
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\refint\task1.dll
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.pdb
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+O:\gb\разработчик\04_знакомство_с_языками_программирования\2024-01-23_лекция\01_csharp\lesson_01\task1\obj\Debug\net8.0\ref\task1.dll

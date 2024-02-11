@@ -13,13 +13,16 @@
     return matrix;
 }
 
-int[,] matrix = CreateMatrix(3, 5);
-for (int i = 0; i < matrix.GetLength(0); i++)
-{
-    for (int j = 0; j < matrix.GetLength(1); j++)
+void ShowMatrix(int[,] matrix){
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        Console.Write($"{matrix[i, j]}\t");
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            Console.Write($"{matrix[i, j]}\t");
+        }
+        Console.WriteLine();
     }
-    Console.WriteLine();
 }
 
+int[,] matrix = CreateMatrix(3, 5);
+ShowMatrix(matrix);
